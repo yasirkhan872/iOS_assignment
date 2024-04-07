@@ -1,6 +1,6 @@
 # iOS_assignment
 
-This project contains [The project aims to build a straightforward application that utilizes the New York Times Most Popular Articles API to display a list of articles based on the most viewed section. Utilizing a master/detail layout, the app provides a seamless user experience where tapping on an article from the list reveals its details].
+[The project aims to build a straightforward application that utilizes the New York Times Most Popular Articles API to display a list of articles based on the most viewed section. Utilizing a master/detail layout, the app provides a seamless user experience where tapping on an article from the list reveals its details].
 
 ## How to Run
 
