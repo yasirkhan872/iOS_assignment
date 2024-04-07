@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E99C75D7-FEAB-42A2-8C5D-F2AB261DEAAD"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8CCD6724-9488-4D23-B274-A1E9197AE006"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOS_assignment/View Models/ArtistListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "fetchData(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8CCD6724-9488-4D23-B274-A1E9197AE006 - aefbe27a49126965"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;iOS_assignment.NewsModel, iOS_assignment.NetworkError&gt;) -&gt; () in iOS_assignment.ArtistListViewModel.fetchData(completion: (Swift.Result&lt;iOS_assignment.NewsModel, iOS_assignment.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "iOS_assignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tapcheck/Documents/Personal/Assignments/iOS/iOS_assignment/iOS_assignment/iOS_assignment/View%20Models/ArtistListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "244">
+               </Location>
+               <Location
+                  uuid = "8CCD6724-9488-4D23-B274-A1E9197AE006 - aefbe27a49126965"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;iOS_assignment.NewsModel, iOS_assignment.NetworkError&gt;) -&gt; () in iOS_assignment.ArtistListViewModel.fetchData(completion: (Swift.Result&lt;iOS_assignment.NewsModel, iOS_assignment.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "iOS_assignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tapcheck/Documents/Personal/Assignments/iOS/iOS_assignment/iOS_assignment/iOS_assignment/View%20Models/ArtistListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "284">
+               </Location>
+               <Location
+                  uuid = "8CCD6724-9488-4D23-B274-A1E9197AE006 - aefbe27a49126965"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;iOS_assignment.NewsModel, iOS_assignment.NetworkError&gt;) -&gt; () in iOS_assignment.ArtistListViewModel.fetchData(completion: (Swift.Result&lt;iOS_assignment.NewsModel, iOS_assignment.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "iOS_assignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tapcheck/Documents/Personal/Assignments/iOS/iOS_assignment/iOS_assignment/iOS_assignment/View%20Models/ArtistListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "360">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5A9A27B7-51A2-4661-A65D-F1767962E5C1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOS_assignment/View Models/ArtistListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "fetchData(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EECE797A-1AF3-4F60-A0A5-C82AE9202D58"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOS_assignment/View Models/ArtistListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "fetchData(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EECE797A-1AF3-4F60-A0A5-C82AE9202D58 - 6f3e06782b686913"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOS_assignment.ArtistListViewModel.fetchData(completion: (Swift.Result&lt;iOS_assignment.NewsModel, iOS_assignment.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "iOS_assignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tapcheck/Documents/Personal/Assignments/iOS/iOS_assignment/iOS_assignment/iOS_assignment/View%20Models/ArtistListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "EECE797A-1AF3-4F60-A0A5-C82AE9202D58 - aefbe27a491269c2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;iOS_assignment.NewsModel, iOS_assignment.NetworkError&gt;) -&gt; () in iOS_assignment.ArtistListViewModel.fetchData(completion: (Swift.Result&lt;iOS_assignment.NewsModel, iOS_assignment.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "iOS_assignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tapcheck/Documents/Personal/Assignments/iOS/iOS_assignment/iOS_assignment/iOS_assignment/View%20Models/ArtistListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
